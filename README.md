@@ -1,1 +1,1 @@
-This is the Git Merge Practice Repository!
+This is the Git Merge Practice Repository
